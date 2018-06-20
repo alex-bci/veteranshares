@@ -32,7 +32,7 @@ var typeMap = {
 
 module.exports = {
   appName: 'blockchainwtfedu',
-  SERVER_PORT: 1337,
+  SERVER_PORT: 1339,
   GLOBSTAR: GLOBSTAR,
   basePaths: basePaths,
 
