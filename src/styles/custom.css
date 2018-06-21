@@ -1,0 +1,9 @@
+section#header.home {
+    padding-top: 0 !important;
+}
+
+section#banner {
+    margin-top: 0;
+    height: 45vh;
+
+}

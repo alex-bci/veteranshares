@@ -92,6 +92,7 @@ module.exports = {
   ],
 
   styleOrder: [
-    'main.css'
+    'main.css',
+    'custom.css'
   ]
 };
