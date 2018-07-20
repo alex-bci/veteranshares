@@ -398,7 +398,7 @@ p {
 /* stcicky css */
 
 .header_area.sticky {
-    background-color: #884bdf;
+    background-color: #8BC34A;
     -webkit-box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     height: 70px;
@@ -424,7 +424,7 @@ p {
 -------------------------- */
 
 .wellcome_area {
-    background-image: url(img/bg-img/welcome-bg.png);
+    background: linear-gradient(rgba(23, 22, 23, 0.6), rgba(23, 22, 23, 0.6)), url(img/home_bg.jpg);
     height: 900px;
     position: relative;
     z-index: 1;
@@ -458,7 +458,7 @@ p {
 
 .wellcome-heading > h2 {
     font-size: 100px;
-    color: #ffffff;
+    color: #FFFFFF;
     font-weight: 700;
     position: relative;
     z-index: 3;
@@ -522,7 +522,7 @@ p {
 }
 
 .wellcome-heading > p {
-    color: #fff;
+    color: #FFFFFF;
 }
 
 .wellcome-heading > h3 {
@@ -748,12 +748,12 @@ p {
 .cool_facts_area {
     position: relative;
     z-index: auto;
-    background: #a865e1;
+    background: #8BC34A;
     background: -webkit-linear-gradient(to left, #7873ed, #a865e1);
-    background: -webkit-linear-gradient(right, #7873ed, #a865e1);
-    background: -webkit-gradient(linear, right top, left top, from(#7873ed), to(#a865e1));
+    background: -webkit-linear-gradient(right, #8BC34A, #8BC34A);
+    background: -webkit-gradient(linear, right top, left top, from(#8BC34A), to(#8BC34A));
     background: -o-linear-gradient(right, #7873ed, #a865e1);
-    background: linear-gradient(to left, #7873ed, #a865e1);
+    background: linear-gradient(to left, #8BC34A, #8BC34A);
     padding: 80px 0 80px 0;
     top: -100px;
 }
@@ -1034,12 +1034,12 @@ p {
 -------------------------- */
 
 .our-monthly-membership {
-    background: #a865e1;
+    background: #8BC34A;
     background: -webkit-linear-gradient(to left, #7873ed, #a865e1);
-    background: -webkit-linear-gradient(right, #7873ed, #a865e1);
-    background: -webkit-gradient(linear, right top, left top, from(#7873ed), to(#a865e1));
+    background: -webkit-linear-gradient(right, #8BC34A, #8BC34A);
+    background: -webkit-gradient(linear, right top, left top, from(#8BC34A), to(#8BC34A));
     background: -o-linear-gradient(right, #7873ed, #a865e1);
-    background: linear-gradient(to left, #7873ed, #a865e1);
+    background: linear-gradient(to left, #8BC34A, #8BC34A);
 }
 
 .membership-description > h2 {
